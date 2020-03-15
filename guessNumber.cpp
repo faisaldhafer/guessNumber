@@ -1,7 +1,5 @@
 /*
 FAISAL ALZAHRANI
-35110059
-SEC: 103
 */
 
 #include <iostream>
